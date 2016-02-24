@@ -8,6 +8,8 @@ public class Test {
 		Invoke i = new Invoke(command);
 		
 		i.call();
+		
+		//maybe used in database transaction
 	}
 
 }
